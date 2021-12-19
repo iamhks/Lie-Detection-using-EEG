@@ -1,6 +1,8 @@
 # Lie-Detection-using-EEG
 My B.Tech Final Year Project
 
+Report(accessible to public): [Project last updated November 2021](https://docs.google.com/document/d/1E5T9PWxf6AtrSM7aqMZ2N4XEdy5M7Gp3HpEee42vDjk/edit?usp=sharing)
+
 PPT: [Lie Detection based on EEG Signals](https://docs.google.com/presentation/d/1gXfmU8nKNBQM59ASesvCvfmrAcFxX_3wOSwurv_s1o0/edit#slide=id.p)
 
 Doc1: [Lie Detection based on EEG Signals - Summary](https://docs.google.com/document/d/1RenS0KEMtqG-hBYkKswe4cjT2xFKitLlmCOwhFdos2o/edit?usp=sharing)
