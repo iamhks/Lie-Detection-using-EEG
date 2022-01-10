@@ -1,4 +1,4 @@
-# Lie-Detection-using-EEG
+# Lie Detection using EEG
 My B.Tech Final Year Project
 
 Report(accessible to public): [Project last updated November 2021](https://docs.google.com/document/d/1E5T9PWxf6AtrSM7aqMZ2N4XEdy5M7Gp3HpEee42vDjk/edit?usp=sharing)
