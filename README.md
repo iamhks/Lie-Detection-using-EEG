@@ -1,16 +1,10 @@
 # Lie Detection using EEG
 My B.Tech Final Year Project
 
-Report(accessible to public): [Project last updated November 2021](https://docs.google.com/document/d/1E5T9PWxf6AtrSM7aqMZ2N4XEdy5M7Gp3HpEee42vDjk/edit?usp=sharing)
+Report: [An Efficient Approach for Lie Detection using EEG Signals and Ensemble Classification](https://github.com/iamhks/Lie-Detection-using-EEG/blob/main/Team_31_Final_Year_Project_Report.pdf)
 
-PPT: [Lie Detection based on EEG Signals](https://docs.google.com/presentation/d/1gXfmU8nKNBQM59ASesvCvfmrAcFxX_3wOSwurv_s1o0/edit#slide=id.p)
-
-Doc1: [Lie Detection based on EEG Signals - Summary](https://docs.google.com/document/d/1RenS0KEMtqG-hBYkKswe4cjT2xFKitLlmCOwhFdos2o/edit?usp=sharing)
+PPT: [Lie Detection based on EEG Signals](https://github.com/iamhks/Lie-Detection-using-EEG/blob/main/Lie%20Detection%20based%20on%20EEG%20Signals.pdf)
 
 EEG Dataset(csv): [EEG Dataset](https://drive.google.com/drive/folders/1uNzT3u_IGUIM8X6eaqT7-IQhoqVC2GmG?usp=sharing8nKNBQM59ASesvCvfmrAcFxX_3wOSwurv_s1o0/edit#slide=id.p)
 
-LSTM-AE Feature Extraction: [LSTM AE](https://colab.research.google.com/drive/11R1WVKKGnkI-QmJoPRGHELefdTktn_yX?usp=sharing)
-
-EEG Classification Dataset: [Classification Dataset](https://drive.google.com/drive/folders/1nqMNPEsJdorzRyWgwob-IbYciVIJafGH?usp=sharing)
-
-SVM Classification: [SVM Classification](https://colab.research.google.com/drive/14bEvwejk6IId0qnCvfXz5n5duWIgWwj0?usp=sharing)
+Source Code: [Google Colab File](https://github.com/iamhks/Lie-Detection-using-EEG/blob/main/An_Efficient_Approach_for_Lie_Detection_using_EEG_Signals_and_Ensemble_Latest%20(1).ipynb)
